@@ -1,9 +1,6 @@
-# Swift-JSON-Decoder-Extension
-Swift JSON Decoder Extension
-
 # How to use?
 
-```javascript
+```js
 Bundle.main.decode("filename.json")
 ```
 
