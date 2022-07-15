@@ -1,4 +1,4 @@
-# How to use?
+# Implementation
 
 ```js
 Bundle.main.decode("filename.json")
